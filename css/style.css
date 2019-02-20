@@ -251,6 +251,8 @@ h4.sub-title.two {
 
 .gal-img img {
     border-radious: 0px;
+    padding: 5px;
+    border: dashed white 1px;
 }
 
 
